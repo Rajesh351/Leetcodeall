@@ -6,11 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Rajesh351/Leetcodeall/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/Rajesh351/Leetcodeall/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Rajesh351/Leetcodeall/tree/master/0876-hand-of-straights) |
 # String
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Rajesh351/Leetcodeall/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/Rajesh351/Leetcodeall/tree/master/0648-replace-words) |
 # Greedy
 |  |
 | ------- |
@@ -19,8 +21,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/Rajesh351/Leetcodeall/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Rajesh351/Leetcodeall/tree/master/0876-hand-of-straights) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Rajesh351/Leetcodeall/tree/master/0876-hand-of-straights) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Rajesh351/Leetcodeall/tree/master/0648-replace-words) |
