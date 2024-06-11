@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Rajesh351/Leetcodeall/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Rajesh351/Leetcodeall/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Rajesh351/Leetcodeall/tree/master/0876-hand-of-straights) |
+| [1217-relative-sort-array](https://github.com/Rajesh351/Leetcodeall/tree/master/1217-relative-sort-array) |
 # String
 |  |
 | ------- |
@@ -26,11 +27,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/Rajesh351/Leetcodeall/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Rajesh351/Leetcodeall/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Rajesh351/Leetcodeall/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Rajesh351/Leetcodeall/tree/master/1217-relative-sort-array) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Rajesh351/Leetcodeall/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Rajesh351/Leetcodeall/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Rajesh351/Leetcodeall/tree/master/1217-relative-sort-array) |
 # Trie
 |  |
 | ------- |
@@ -47,3 +50,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Rajesh351/Leetcodeall/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Rajesh351/Leetcodeall/tree/master/1217-relative-sort-array) |
