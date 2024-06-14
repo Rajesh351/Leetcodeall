@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/Rajesh351/Leetcodeall/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Rajesh351/Leetcodeall/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rajesh351/Leetcodeall/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2329-maximum-product-after-k-increments](https://github.com/Rajesh351/Leetcodeall/tree/master/2329-maximum-product-after-k-increments) |
 # Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/Rajesh351/Leetcodeall/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Rajesh351/Leetcodeall/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rajesh351/Leetcodeall/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2329-maximum-product-after-k-increments](https://github.com/Rajesh351/Leetcodeall/tree/master/2329-maximum-product-after-k-increments) |
 # Sorting
 |  |
 | ------- |
@@ -64,3 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rajesh351/Leetcodeall/tree/master/0075-sort-colors) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [2329-maximum-product-after-k-increments](https://github.com/Rajesh351/Leetcodeall/tree/master/2329-maximum-product-after-k-increments) |
