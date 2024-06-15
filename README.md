@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Rajesh351/Leetcodeall/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rajesh351/Leetcodeall/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2329-maximum-product-after-k-increments](https://github.com/Rajesh351/Leetcodeall/tree/master/2329-maximum-product-after-k-increments) |
+| [2636-maximum-subsequence-score](https://github.com/Rajesh351/Leetcodeall/tree/master/2636-maximum-subsequence-score) |
 # Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Rajesh351/Leetcodeall/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rajesh351/Leetcodeall/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2329-maximum-product-after-k-increments](https://github.com/Rajesh351/Leetcodeall/tree/master/2329-maximum-product-after-k-increments) |
+| [2636-maximum-subsequence-score](https://github.com/Rajesh351/Leetcodeall/tree/master/2636-maximum-subsequence-score) |
 # Sorting
 |  |
 | ------- |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/Rajesh351/Leetcodeall/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Rajesh351/Leetcodeall/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rajesh351/Leetcodeall/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2636-maximum-subsequence-score](https://github.com/Rajesh351/Leetcodeall/tree/master/2636-maximum-subsequence-score) |
 # Trie
 |  |
 | ------- |
@@ -76,3 +79,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0502-ipo](https://github.com/Rajesh351/Leetcodeall/tree/master/0502-ipo) |
 | [2329-maximum-product-after-k-increments](https://github.com/Rajesh351/Leetcodeall/tree/master/2329-maximum-product-after-k-increments) |
+| [2636-maximum-subsequence-score](https://github.com/Rajesh351/Leetcodeall/tree/master/2636-maximum-subsequence-score) |
