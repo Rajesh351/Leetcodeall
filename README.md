@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rajesh351/Leetcodeall/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2329-maximum-product-after-k-increments](https://github.com/Rajesh351/Leetcodeall/tree/master/2329-maximum-product-after-k-increments) |
 | [2636-maximum-subsequence-score](https://github.com/Rajesh351/Leetcodeall/tree/master/2636-maximum-subsequence-score) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Rajesh351/Leetcodeall/tree/master/2844-sum-of-squares-of-special-elements) |
 # Sorting
 |  |
 | ------- |
@@ -86,3 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/0633-sum-of-square-numbers) |
+# Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Rajesh351/Leetcodeall/tree/master/2844-sum-of-squares-of-special-elements) |
