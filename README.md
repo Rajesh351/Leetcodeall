@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Rajesh351/Leetcodeall/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rajesh351/Leetcodeall/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2329-maximum-product-after-k-increments](https://github.com/Rajesh351/Leetcodeall/tree/master/2329-maximum-product-after-k-increments) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rajesh351/Leetcodeall/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/Rajesh351/Leetcodeall/tree/master/2636-maximum-subsequence-score) |
 # Array
 |  |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Rajesh351/Leetcodeall/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rajesh351/Leetcodeall/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2329-maximum-product-after-k-increments](https://github.com/Rajesh351/Leetcodeall/tree/master/2329-maximum-product-after-k-increments) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rajesh351/Leetcodeall/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/Rajesh351/Leetcodeall/tree/master/2636-maximum-subsequence-score) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rajesh351/Leetcodeall/tree/master/2844-sum-of-squares-of-special-elements) |
 # Sorting
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/Rajesh351/Leetcodeall/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Rajesh351/Leetcodeall/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rajesh351/Leetcodeall/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rajesh351/Leetcodeall/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/Rajesh351/Leetcodeall/tree/master/2636-maximum-subsequence-score) |
 # Trie
 |  |
@@ -84,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Rajesh351/Leetcodeall/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Rajesh351/Leetcodeall/tree/master/0853-most-profit-assigning-work) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Rajesh351/Leetcodeall/tree/master/2497-maximum-matching-of-players-with-trainers) |
 # Heap (Priority Queue)
 |  |
 | ------- |
