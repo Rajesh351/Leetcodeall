@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/Rajesh351/Leetcodeall/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Rajesh351/Leetcodeall/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Rajesh351/Leetcodeall/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/Rajesh351/Leetcodeall/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Rajesh351/Leetcodeall/tree/master/1217-relative-sort-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rajesh351/Leetcodeall/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Rajesh351/Leetcodeall/tree/master/1675-magnetic-force-between-two-balls) |
@@ -108,3 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rajesh351/Leetcodeall/tree/master/2844-sum-of-squares-of-special-elements) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/Rajesh351/Leetcodeall/tree/master/1138-grumpy-bookstore-owner) |
