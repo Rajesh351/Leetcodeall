@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Rajesh351/Leetcodeall/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rajesh351/Leetcodeall/tree/master/1370-count-number-of-nice-subarrays) |
