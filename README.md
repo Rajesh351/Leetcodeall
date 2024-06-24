@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/Rajesh351/Leetcodeall/tree/master/0876-hand-of-straights) |
 | [1217-relative-sort-array](https://github.com/Rajesh351/Leetcodeall/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rajesh351/Leetcodeall/tree/master/1370-count-number-of-nice-subarrays) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Rajesh351/Leetcodeall/tree/master/2331-intersection-of-multiple-arrays) |
 # String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Rajesh351/Leetcodeall/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rajesh351/Leetcodeall/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2329-maximum-product-after-k-increments](https://github.com/Rajesh351/Leetcodeall/tree/master/2329-maximum-product-after-k-increments) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Rajesh351/Leetcodeall/tree/master/2331-intersection-of-multiple-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rajesh351/Leetcodeall/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/Rajesh351/Leetcodeall/tree/master/2636-maximum-subsequence-score) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rajesh351/Leetcodeall/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/Rajesh351/Leetcodeall/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Rajesh351/Leetcodeall/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Rajesh351/Leetcodeall/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Rajesh351/Leetcodeall/tree/master/2331-intersection-of-multiple-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rajesh351/Leetcodeall/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/Rajesh351/Leetcodeall/tree/master/2636-maximum-subsequence-score) |
 # Trie
@@ -89,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Rajesh351/Leetcodeall/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Rajesh351/Leetcodeall/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Rajesh351/Leetcodeall/tree/master/1217-relative-sort-array) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Rajesh351/Leetcodeall/tree/master/2331-intersection-of-multiple-arrays) |
 # Two Pointers
 |  |
 | ------- |
