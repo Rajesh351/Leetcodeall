@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2331-intersection-of-multiple-arrays](https://github.com/Rajesh351/Leetcodeall/tree/master/2331-intersection-of-multiple-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rajesh351/Leetcodeall/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/Rajesh351/Leetcodeall/tree/master/2636-maximum-subsequence-score) |
+| [2722-prime-in-diagonal](https://github.com/Rajesh351/Leetcodeall/tree/master/2722-prime-in-diagonal) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rajesh351/Leetcodeall/tree/master/2844-sum-of-squares-of-special-elements) |
 # Sorting
 |  |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rajesh351/Leetcodeall/tree/master/1370-count-number-of-nice-subarrays) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rajesh351/Leetcodeall/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2722-prime-in-diagonal](https://github.com/Rajesh351/Leetcodeall/tree/master/2722-prime-in-diagonal) |
 # Prefix Sum
 |  |
 | ------- |
@@ -136,3 +138,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Rajesh351/Leetcodeall/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Matrix
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/Rajesh351/Leetcodeall/tree/master/2722-prime-in-diagonal) |
+# Number Theory
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/Rajesh351/Leetcodeall/tree/master/2722-prime-in-diagonal) |
