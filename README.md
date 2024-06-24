@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/Rajesh351/Leetcodeall/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Rajesh351/Leetcodeall/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Rajesh351/Leetcodeall/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajesh351/Leetcodeall/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1137-height-checker](https://github.com/Rajesh351/Leetcodeall/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Rajesh351/Leetcodeall/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Rajesh351/Leetcodeall/tree/master/1217-relative-sort-array) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Rajesh351/Leetcodeall/tree/master/0523-continuous-subarray-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajesh351/Leetcodeall/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Rajesh351/Leetcodeall/tree/master/1693-sum-of-all-odd-length-subarrays) |
 # Counting Sort
 |  |
@@ -124,12 +126,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajesh351/Leetcodeall/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/Rajesh351/Leetcodeall/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rajesh351/Leetcodeall/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Rajesh351/Leetcodeall/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajesh351/Leetcodeall/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Rajesh351/Leetcodeall/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Ordered Set
 |  |
@@ -147,3 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/Rajesh351/Leetcodeall/tree/master/2722-prime-in-diagonal) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajesh351/Leetcodeall/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
