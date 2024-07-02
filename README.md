@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajesh351/Leetcodeall/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1955-seat-reservation-manager](https://github.com/Rajesh351/Leetcodeall/tree/master/1955-seat-reservation-manager) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajesh351/Leetcodeall/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
 |  |
@@ -236,4 +237,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajesh351/Leetcodeall/tree/master/0803-cheapest-flights-within-k-stops) |
+## Design
+|  |
+| ------- |
+| [1955-seat-reservation-manager](https://github.com/Rajesh351/Leetcodeall/tree/master/1955-seat-reservation-manager) |
 <!---LeetCode Topics End-->
