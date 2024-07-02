@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Rajesh351/Leetcodeall/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Rajesh351/Leetcodeall/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Rajesh351/Leetcodeall/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajesh351/Leetcodeall/tree/master/2379-maximum-total-importance-of-roads) |
@@ -203,14 +204,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Rajesh351/Leetcodeall/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajesh351/Leetcodeall/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Rajesh351/Leetcodeall/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Rajesh351/Leetcodeall/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Rajesh351/Leetcodeall/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Rajesh351/Leetcodeall/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -224,4 +228,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/Rajesh351/Leetcodeall/tree/master/1293-three-consecutive-odds) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Rajesh351/Leetcodeall/tree/master/0803-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Rajesh351/Leetcodeall/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
