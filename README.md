@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Rajesh351/Leetcodeall/tree/master/0016-3sum-closest) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Rajesh351/Leetcodeall/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajesh351/Leetcodeall/tree/master/2379-maximum-total-importance-of-roads) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Rajesh351/Leetcodeall/tree/master/0016-3sum-closest) |
 | [1293-three-consecutive-odds](https://github.com/Rajesh351/Leetcodeall/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Rajesh351/Leetcodeall/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/Rajesh351/Leetcodeall/tree/master/1803-average-waiting-time) |
@@ -298,4 +300,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rajesh351/Leetcodeall/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Rajesh351/Leetcodeall/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
