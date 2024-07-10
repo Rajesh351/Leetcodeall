@@ -2,16 +2,16 @@ class Solution {
 public:
     int minOperations(vector<string>& logs) {
         
-        stack<string>st;
+        int count=0;
         string onemove="../";
         string same="./";
 
         for(auto a:logs)
         {
-            if(onemove==a && st.size()==0) continue;
-            else if(onemove==a) st.pop();
-            else if(same!=a) st.push(a); 
+            if(onemove==a && count==0) continue;
+            else if(onemove==a) count-=1;
+            else if(same!=a) count+=1;
         }
-        return st.size()==0?0:st.size();
+        return count==0?0:count;
     }
 };
