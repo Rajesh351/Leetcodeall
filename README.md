@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rajesh351/Leetcodeall/tree/master/0016-3sum-closest) |
+| [0726-number-of-atoms](https://github.com/Rajesh351/Leetcodeall/tree/master/0726-number-of-atoms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Rajesh351/Leetcodeall/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Rajesh351/Leetcodeall/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Rajesh351/Leetcodeall/tree/master/0726-number-of-atoms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Rajesh351/Leetcodeall/tree/master/0726-number-of-atoms) |
 | [0886-score-of-parentheses](https://github.com/Rajesh351/Leetcodeall/tree/master/0886-score-of-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rajesh351/Leetcodeall/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Rajesh351/Leetcodeall/tree/master/1720-crawler-log-folder) |
@@ -327,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Rajesh351/Leetcodeall/tree/master/0726-number-of-atoms) |
 | [0886-score-of-parentheses](https://github.com/Rajesh351/Leetcodeall/tree/master/0886-score-of-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rajesh351/Leetcodeall/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Rajesh351/Leetcodeall/tree/master/1720-crawler-log-folder) |
