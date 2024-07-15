@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rajesh351/Leetcodeall/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rajesh351/Leetcodeall/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rajesh351/Leetcodeall/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Rajesh351/Leetcodeall/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/Rajesh351/Leetcodeall/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
@@ -286,16 +287,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0726-number-of-atoms](https://github.com/Rajesh351/Leetcodeall/tree/master/0726-number-of-atoms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Rajesh351/Leetcodeall/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Rajesh351/Leetcodeall/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Rajesh351/Leetcodeall/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
 | ------- |
