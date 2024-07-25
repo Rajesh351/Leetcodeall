@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Rajesh351/Leetcodeall/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajesh351/Leetcodeall/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/Rajesh351/Leetcodeall/tree/master/1254-deepest-leaves-sum) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Rajesh351/Leetcodeall/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/Rajesh351/Leetcodeall/tree/master/0016-3sum-closest) |
 | [0948-sort-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/0948-sort-an-array) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Rajesh351/Leetcodeall/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Rajesh351/Leetcodeall/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/1333-sort-the-jumbled-numbers) |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rajesh351/Leetcodeall/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rajesh351/Leetcodeall/tree/master/2472-build-a-matrix-with-conditions) |
