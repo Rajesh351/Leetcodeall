@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/Rajesh351/Leetcodeall/tree/master/0498-diagonal-traverse) |
 | [0948-sort-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/0948-sort-an-array) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1196-filling-bookcase-shelves](https://github.com/Rajesh351/Leetcodeall/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Rajesh351/Leetcodeall/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Rajesh351/Leetcodeall/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/1333-sort-the-jumbled-numbers) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajesh351/Leetcodeall/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1196-filling-bookcase-shelves](https://github.com/Rajesh351/Leetcodeall/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rajesh351/Leetcodeall/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Rajesh351/Leetcodeall/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rajesh351/Leetcodeall/tree/master/1756-minimum-deletions-to-make-string-balanced) |
