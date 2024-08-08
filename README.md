@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-minimum-moves-to-convert-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2154-minimum-moves-to-convert-string) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajesh351/Leetcodeall/tree/master/2379-maximum-total-importance-of-roads) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Rajesh351/Leetcodeall/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Graph
 |  |
 | ------- |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/Rajesh351/Leetcodeall/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Rajesh351/Leetcodeall/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Rajesh351/Leetcodeall/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Rajesh351/Leetcodeall/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rajesh351/Leetcodeall/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Rajesh351/Leetcodeall/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rajesh351/Leetcodeall/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Rajesh351/Leetcodeall/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Shortest Path
 |  |
 | ------- |
@@ -436,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Rajesh351/Leetcodeall/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rajesh351/Leetcodeall/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Rajesh351/Leetcodeall/tree/master/2846-robot-collisions) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Rajesh351/Leetcodeall/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -492,4 +496,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Rajesh351/Leetcodeall/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 <!---LeetCode Topics End-->
