@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Rajesh351/Leetcodeall/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Rajesh351/Leetcodeall/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajesh351/Leetcodeall/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0999-regions-cut-by-slashes](https://github.com/Rajesh351/Leetcodeall/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Rajesh351/Leetcodeall/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/Rajesh351/Leetcodeall/tree/master/1254-deepest-leaves-sum) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Rajesh351/Leetcodeall/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Rajesh351/Leetcodeall/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajesh351/Leetcodeall/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0999-regions-cut-by-slashes](https://github.com/Rajesh351/Leetcodeall/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/Rajesh351/Leetcodeall/tree/master/1254-deepest-leaves-sum) |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rajesh351/Leetcodeall/tree/master/0547-number-of-provinces) |
+| [0999-regions-cut-by-slashes](https://github.com/Rajesh351/Leetcodeall/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Rajesh351/Leetcodeall/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
@@ -277,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Rajesh351/Leetcodeall/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/Rajesh351/Leetcodeall/tree/master/0999-regions-cut-by-slashes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/Rajesh351/Leetcodeall/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Rajesh351/Leetcodeall/tree/master/1207-delete-nodes-and-return-forest) |
@@ -356,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/Rajesh351/Leetcodeall/tree/master/0677-map-sum-pairs) |
 | [0726-number-of-atoms](https://github.com/Rajesh351/Leetcodeall/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Rajesh351/Leetcodeall/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Rajesh351/Leetcodeall/tree/master/1207-delete-nodes-and-return-forest) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rajesh351/Leetcodeall/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -467,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/Rajesh351/Leetcodeall/tree/master/0498-diagonal-traverse) |
 | [0870-magic-squares-in-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Rajesh351/Leetcodeall/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Rajesh351/Leetcodeall/tree/master/0999-regions-cut-by-slashes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rajesh351/Leetcodeall/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
