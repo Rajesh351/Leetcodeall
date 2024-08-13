@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajesh351/Leetcodeall/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Rajesh351/Leetcodeall/tree/master/0016-3sum-closest) |
+| [0040-combination-sum-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0040-combination-sum-ii) |
 | [0498-diagonal-traverse](https://github.com/Rajesh351/Leetcodeall/tree/master/0498-diagonal-traverse) |
 | [0870-magic-squares-in-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Rajesh351/Leetcodeall/tree/master/0921-spiral-matrix-iii) |
@@ -524,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0040-combination-sum-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0040-combination-sum-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
