@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/Rajesh351/Leetcodeall/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/0870-magic-squares-in-grid) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rajesh351/Leetcodeall/tree/master/1951-find-the-winner-of-the-circular-game) |
