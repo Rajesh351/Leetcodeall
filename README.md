@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rajesh351/Leetcodeall/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Rajesh351/Leetcodeall/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2411-spiral-matrix-iv](https://github.com/Rajesh351/Leetcodeall/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rajesh351/Leetcodeall/tree/master/2472-build-a-matrix-with-conditions) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Rajesh351/Leetcodeall/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2727-number-of-senior-citizens](https://github.com/Rajesh351/Leetcodeall/tree/master/2727-number-of-senior-citizens) |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Rajesh351/Leetcodeall/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Rajesh351/Leetcodeall/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/Rajesh351/Leetcodeall/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajesh351/Leetcodeall/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rajesh351/Leetcodeall/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rajesh351/Leetcodeall/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Rajesh351/Leetcodeall/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/Rajesh351/Leetcodeall/tree/master/2411-spiral-matrix-iv) |
 | [2846-robot-collisions](https://github.com/Rajesh351/Leetcodeall/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -548,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rajesh351/Leetcodeall/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2411-spiral-matrix-iv](https://github.com/Rajesh351/Leetcodeall/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rajesh351/Leetcodeall/tree/master/2472-build-a-matrix-with-conditions) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Rajesh351/Leetcodeall/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Trie
