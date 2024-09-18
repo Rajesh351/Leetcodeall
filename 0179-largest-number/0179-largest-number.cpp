@@ -1,20 +1,18 @@
 class Solution {
 public:
-    // bool compare(string& a, string& b) { return a + b > b + a; }
-    string largestNumber(vector<int>& nums) {
-        vector<string> str;
-        for (int i = 0; i < nums.size(); i++) {
-            string s = to_string(nums[i]);
-            str.push_back(s);
-        }
-        sort(str.begin(), str.end(), [](string &a, string &b) {
-        return a + b > b + a;  // Compare concatenated strings
-    });
-        string ans = "";
-        for (int i = 0; i < str.size(); i++) {
-            ans += str[i];
-        }
-        if(ans[0]=='0') ans='0';
+    static bool cmp(int a,int b)
+    {
+        return to_string(a) + to_string(b) > to_string(b) + to_string(a);
+    }
+    string largestNumber(vector<int>& nums) 
+    {
+        sort(nums.begin(),nums.end(),cmp);
+
+        if(nums[0] == 0) return "0";
+
+        string ans;
+        for(int n:nums) ans += to_string(n);
+
         return ans;
     }
 };
