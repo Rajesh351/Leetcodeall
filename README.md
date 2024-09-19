@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0040-combination-sum-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajesh351/Leetcodeall/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0179-largest-number) |
+| [0219-contains-duplicate-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0219-contains-duplicate-ii) |
 | [0498-diagonal-traverse](https://github.com/Rajesh351/Leetcodeall/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Rajesh351/Leetcodeall/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rajesh351/Leetcodeall/tree/master/0624-maximum-distance-in-arrays) |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0219-contains-duplicate-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0264-ugly-number-ii) |
 | [0677-map-sum-pairs](https://github.com/Rajesh351/Leetcodeall/tree/master/0677-map-sum-pairs) |
 | [0726-number-of-atoms](https://github.com/Rajesh351/Leetcodeall/tree/master/0726-number-of-atoms) |
@@ -612,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rajesh351/Leetcodeall/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Backtracking
