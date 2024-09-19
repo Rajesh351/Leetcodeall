@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajesh351/Leetcodeall/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Rajesh351/Leetcodeall/tree/master/0016-3sum-closest) |
 | [0040-combination-sum-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0040-combination-sum-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajesh351/Leetcodeall/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0179-largest-number) |
 | [0498-diagonal-traverse](https://github.com/Rajesh351/Leetcodeall/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Rajesh351/Leetcodeall/tree/master/0539-minimum-time-difference) |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajesh351/Leetcodeall/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Rajesh351/Leetcodeall/tree/master/0273-integer-to-english-words) |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajesh351/Leetcodeall/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Rajesh351/Leetcodeall/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/Rajesh351/Leetcodeall/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Rajesh351/Leetcodeall/tree/master/0776-n-ary-tree-postorder-traversal) |
