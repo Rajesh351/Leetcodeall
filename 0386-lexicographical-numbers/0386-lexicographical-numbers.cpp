@@ -1,18 +1,23 @@
 class Solution {
 public:
+    void slove(int i,int n,vector<int>&v)
+    {
+        if(i>n) return;
+        v.push_back(i);
+        for(int j=0;j<=9;j++)
+        {
+            int num=(i*10)+j;
+            if(num>n) return;
+            slove(num,n,v);
+        }
+    }
     vector<int> lexicalOrder(int n) {
         
-        vector<string>v;
-        for(int i=1;i<=n;i++)
+        vector<int>v;
+        for(int i=1;i<=9;i++)
         {
-            v.push_back(to_string(i));
+            slove(i,n,v);
         }
-        sort(v.begin(),v.end());
-        vector<int>ans;
-        for(int i=0;i<v.size();i++)
-        {
-            ans.push_back((stoi(v[i])));
-        }
-        return ans;
+        return v;
     }
 };
