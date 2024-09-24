@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Rajesh351/Leetcodeall/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Rajesh351/Leetcodeall/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Rajesh351/Leetcodeall/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Rajesh351/Leetcodeall/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajesh351/Leetcodeall/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/Rajesh351/Leetcodeall/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2755-extra-characters-in-a-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Rajesh351/Leetcodeall/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajesh351/Leetcodeall/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Rajesh351/Leetcodeall/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Rajesh351/Leetcodeall/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -600,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Rajesh351/Leetcodeall/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0677-map-sum-pairs](https://github.com/Rajesh351/Leetcodeall/tree/master/0677-map-sum-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Rajesh351/Leetcodeall/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Merge Sort
 |  |
 | ------- |
