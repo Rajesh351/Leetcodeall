@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Rajesh351/Leetcodeall/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rajesh351/Leetcodeall/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rajesh351/Leetcodeall/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/Rajesh351/Leetcodeall/tree/master/0729-my-calendar-i) |
 | [0870-magic-squares-in-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Rajesh351/Leetcodeall/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Rajesh351/Leetcodeall/tree/master/0921-spiral-matrix-iii) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/Rajesh351/Leetcodeall/tree/master/0677-map-sum-pairs) |
+| [0729-my-calendar-i](https://github.com/Rajesh351/Leetcodeall/tree/master/0729-my-calendar-i) |
 | [1955-seat-reservation-manager](https://github.com/Rajesh351/Leetcodeall/tree/master/1955-seat-reservation-manager) |
 ## Linked List
 |  |
@@ -473,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajesh351/Leetcodeall/tree/master/0004-median-of-two-sorted-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rajesh351/Leetcodeall/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/Rajesh351/Leetcodeall/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Rajesh351/Leetcodeall/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rajesh351/Leetcodeall/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
@@ -688,4 +691,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rajesh351/Leetcodeall/tree/master/0214-shortest-palindrome) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Rajesh351/Leetcodeall/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Rajesh351/Leetcodeall/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
