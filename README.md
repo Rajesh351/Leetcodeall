@@ -391,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Rajesh351/Leetcodeall/tree/master/0432-all-oone-data-structure) |
 | [0677-map-sum-pairs](https://github.com/Rajesh351/Leetcodeall/tree/master/0677-map-sum-pairs) |
 | [0729-my-calendar-i](https://github.com/Rajesh351/Leetcodeall/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0731-my-calendar-ii) |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0432-all-oone-data-structure](https://github.com/Rajesh351/Leetcodeall/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Rajesh351/Leetcodeall/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Rajesh351/Leetcodeall/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/1484-linked-list-in-binary-tree) |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0264-ugly-number-ii) |
+| [0432-all-oone-data-structure](https://github.com/Rajesh351/Leetcodeall/tree/master/0432-all-oone-data-structure) |
 | [0677-map-sum-pairs](https://github.com/Rajesh351/Leetcodeall/tree/master/0677-map-sum-pairs) |
 | [0726-number-of-atoms](https://github.com/Rajesh351/Leetcodeall/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/0870-magic-squares-in-grid) |
@@ -709,4 +712,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/Rajesh351/Leetcodeall/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Rajesh351/Leetcodeall/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
