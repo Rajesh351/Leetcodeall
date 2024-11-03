@@ -5,7 +5,7 @@ public:
         if(s==goal) return true;
         for(int i=0;i<goal.size();i++)
         {
-            string newstr = goal.substr(i, goal.size() - i) + goal.substr(0, i);
+            string newstr = goal.substr(i, goal.size()) + goal.substr(0, i);
              if(newstr==s) return true;
         }
         return false;
