@@ -628,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/Rajesh351/Leetcodeall/tree/master/0592-fraction-addition-and-subtraction) |
 | [0677-map-sum-pairs](https://github.com/Rajesh351/Leetcodeall/tree/master/0677-map-sum-pairs) |
 | [0726-number-of-atoms](https://github.com/Rajesh351/Leetcodeall/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/Rajesh351/Leetcodeall/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/Rajesh351/Leetcodeall/tree/master/0886-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rajesh351/Leetcodeall/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rajesh351/Leetcodeall/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -804,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rajesh351/Leetcodeall/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Rajesh351/Leetcodeall/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
