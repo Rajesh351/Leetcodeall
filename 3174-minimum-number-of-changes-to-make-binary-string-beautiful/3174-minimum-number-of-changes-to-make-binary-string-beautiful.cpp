@@ -1,26 +1,18 @@
 class Solution {
 public:
     int minChanges(string s) {
-      char ch=s[0];
-      int change=0,count=0;
-      for(int i=0;i<s.size();i++)
+      
+      int i=0;
+      int count=0;
+      while(i<s.size())
       {
-        if(ch==s[i])
-        {
-            count++;
-            continue;
-        }
-        if(count%2==0)
-        {
-            count=1;
-        }
-        else
-        {
-             change+=1;
-             count=0;
-        }
-        ch=s[i];
-      }  
-      return change;
+
+         char s2=s[i];
+         i+=1;
+         char s1=s[i];
+         i+=1;
+         if(s1!=s2) count++;
+      }
+      return count;
     }
 };
