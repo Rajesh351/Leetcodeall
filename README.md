@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajesh351/Leetcodeall/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rajesh351/Leetcodeall/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rajesh351/Leetcodeall/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/Rajesh351/Leetcodeall/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Rajesh351/Leetcodeall/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Rajesh351/Leetcodeall/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rajesh351/Leetcodeall/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Rajesh351/Leetcodeall/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2716-prime-subtraction-operation](https://github.com/Rajesh351/Leetcodeall/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Rajesh351/Leetcodeall/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -560,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rajesh351/Leetcodeall/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rajesh351/Leetcodeall/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/Rajesh351/Leetcodeall/tree/master/2716-prime-subtraction-operation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -589,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rajesh351/Leetcodeall/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Rajesh351/Leetcodeall/tree/master/2155-find-missing-observations) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Rajesh351/Leetcodeall/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2716-prime-subtraction-operation](https://github.com/Rajesh351/Leetcodeall/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Rajesh351/Leetcodeall/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -792,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/Rajesh351/Leetcodeall/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Rajesh351/Leetcodeall/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
