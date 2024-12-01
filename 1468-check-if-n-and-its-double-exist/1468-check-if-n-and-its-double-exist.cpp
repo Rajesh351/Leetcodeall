@@ -2,12 +2,17 @@ class Solution {
 public:
    bool checkIfExist(vector<int>& arr) 
 {
-     unordered_map<int,int>mp;
-     for(int a:arr) mp[a]++;
-     for(int a:arr)
-     {
-        if(mp.find(a*2)!=mp.end()) return true;
-     }
-     return false;
+      unordered_map<int, int> mp;
+    for(int i = 0; i < arr.size(); i++)
+    {
+
+        if(mp.find(arr[i] * 2) != mp.end())
+            return true;
+        if(arr[i] % 2 == 0 && mp.find(arr[i]/2) != mp.end())
+            return true;
+        mp[arr[i]]++;
+    }
+    
+    return false;
 }
 };
