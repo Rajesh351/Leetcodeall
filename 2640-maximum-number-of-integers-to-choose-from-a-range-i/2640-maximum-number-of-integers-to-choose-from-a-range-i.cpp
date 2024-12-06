@@ -4,23 +4,20 @@ public:
         
         unordered_map<int,int>mp;
         for(auto a:banned) mp[a]++;
-        vector<int>v;
-        for(int i=1;i<=n;i++)
+         int sum=0;
+        int i=0;
+        int count=0;
+        for(i=1;i<=n;i++)
         {
+            
             if(mp.find(i)==mp.end())
             {
-                v.push_back(i);
+                 sum+=i;
+                 count++;
+              if(sum>maxSum) return count-1;
             }
         }
-        if(v.size()==0) return 0;
-        int sum=0;
-        int i=0;
-         for(i=0;i<v.size();i++)
-         {
-              sum+=v[i];
-              if(sum>maxSum) return i;
-         }
-         if(maxSum>sum) return i;
+         if(maxSum>sum) return count;
          return 0;
     }
 };
