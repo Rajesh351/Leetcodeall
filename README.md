@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rajesh351/Leetcodeall/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Rajesh351/Leetcodeall/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Rajesh351/Leetcodeall/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajesh351/Leetcodeall/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rajesh351/Leetcodeall/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Rajesh351/Leetcodeall/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajesh351/Leetcodeall/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0219-contains-duplicate-ii) |
