@@ -1,18 +1,23 @@
 class Solution {
 public:
     long long continuousSubarrays(vector<int>& nums) {
-        const int n=nums.size();
-        long long cnt=0;
-        multiset<int> hasX;
-        for(int l=0, r=0; r<n; r++){
-            hasX.insert(nums[r]);
-            while(l<r && *prev(hasX.end())-*hasX.begin()>2){
-                auto it=hasX.find(nums[l]);
-                hasX.erase(it);
-                l++;
-            }
-            cnt+=r-l+1LL;
-        }
-        return cnt;
+      int n=nums.size();
+      int i=0;
+      int j=0;
+      map<int,int>mp;
+      long long ans=0;
+      while(i<n)
+      {
+         mp[nums[i]]++;
+         while(abs(mp.rbegin()->first - mp.begin()->first)>2)
+         {
+            mp[nums[j]]-=1;
+            if(mp[nums[j]]==0) mp.erase(nums[j]);
+            j++;
+         }
+         ans+=i-j+1;
+         i++;
+      }
+      return ans;
     }
 };
