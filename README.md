@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rajesh351/Leetcodeall/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rajesh351/Leetcodeall/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rajesh351/Leetcodeall/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/Rajesh351/Leetcodeall/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rajesh351/Leetcodeall/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2154-minimum-moves-to-convert-string) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajesh351/Leetcodeall/tree/master/2379-maximum-total-importance-of-roads) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/Rajesh351/Leetcodeall/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Rajesh351/Leetcodeall/tree/master/1325-path-with-maximum-probability) |
+| [1917-maximum-average-pass-ratio](https://github.com/Rajesh351/Leetcodeall/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/Rajesh351/Leetcodeall/tree/master/1955-seat-reservation-manager) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rajesh351/Leetcodeall/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Rajesh351/Leetcodeall/tree/master/2164-two-best-non-overlapping-events) |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Rajesh351/Leetcodeall/tree/master/1803-average-waiting-time) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Rajesh351/Leetcodeall/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1899-count-items-matching-a-rule](https://github.com/Rajesh351/Leetcodeall/tree/master/1899-count-items-matching-a-rule) |
+| [1917-maximum-average-pass-ratio](https://github.com/Rajesh351/Leetcodeall/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/Rajesh351/Leetcodeall/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rajesh351/Leetcodeall/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rajesh351/Leetcodeall/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
