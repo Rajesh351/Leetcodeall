@@ -32,7 +32,6 @@ struct Compare {
           v[it.second]=it.first;
           
        }
-       //reverse(v.begin(),v.end());
        return v;
     }
 };
