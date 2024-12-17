@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/Rajesh351/Leetcodeall/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rajesh351/Leetcodeall/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2154-minimum-moves-to-convert-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Rajesh351/Leetcodeall/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajesh351/Leetcodeall/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rajesh351/Leetcodeall/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rajesh351/Leetcodeall/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1955-seat-reservation-manager](https://github.com/Rajesh351/Leetcodeall/tree/master/1955-seat-reservation-manager) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rajesh351/Leetcodeall/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Rajesh351/Leetcodeall/tree/master/2164-two-best-non-overlapping-events) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Rajesh351/Leetcodeall/tree/master/2300-construct-string-with-repeat-limit) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Rajesh351/Leetcodeall/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajesh351/Leetcodeall/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Rajesh351/Leetcodeall/tree/master/2379-maximum-total-importance-of-roads) |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rajesh351/Leetcodeall/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Rajesh351/Leetcodeall/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Rajesh351/Leetcodeall/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rajesh351/Leetcodeall/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajesh351/Leetcodeall/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -756,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Rajesh351/Leetcodeall/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2232-adding-spaces-to-a-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Rajesh351/Leetcodeall/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Rajesh351/Leetcodeall/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/Rajesh351/Leetcodeall/tree/master/2580-circular-sentence) |
@@ -856,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rajesh351/Leetcodeall/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Rajesh351/Leetcodeall/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rajesh351/Leetcodeall/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Rajesh351/Leetcodeall/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
