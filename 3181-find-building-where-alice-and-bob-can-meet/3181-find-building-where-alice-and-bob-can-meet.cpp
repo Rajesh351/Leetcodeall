@@ -1,52 +1,79 @@
 class Solution {
 public:
-    int n, sparseTable[50010][20], logValues[50010];
-
-    int queryMaximum(int left, int right) {
-        int k = logValues[right - left + 1];
-        return max(sparseTable[left][k], sparseTable[right - (1 << k) + 1][k]);
-    }
-
-    vector<int> leftmostBuildingQueries(vector<int>& heights, vector<vector<int>>& queries) {
+   vector<int> leftmostBuildingQueries(vector<int>& heights, vector<vector<int>>& queries) {
         int n = heights.size();
-        sparseTable[n][0] = 2e9;
-        logValues[0] = -1;
-        for (int i = 1; i <= n; i++) {
-            logValues[i] = logValues[i >> 1] + 1;
+        vector<int> NGE(n, -1);
+        stack<int> st;
+        for(int i = n-1; i >=0; --i){
+            while(!st.empty() && heights[st.top()] <= heights[i]){
+                st.pop();
+            }
+            if(!st.empty()){
+                NGE[i] = st.top();
+            }
+            st.push(i);
         }
-        for (int i = 0; i < n; i++) {
-            sparseTable[i][0] = heights[i];
-        }
-        for (int i = 1; i < 20; i++) {
-            for (int j = 0; j + (1 << i) - 1 <= n; j++) {
-                sparseTable[j][i] = max(sparseTable[j][i - 1], sparseTable[j + (1 << (i - 1))][i - 1]);
+        unordered_map<long long, int> cache;
+        function<int(int, int, int)> dfs = [&](int x, int y, int i) -> int {
+            // Compute h = max(heights[x], heights[y])
+            int h = max(heights[x], heights[y]);
+            // Encode (h, i) into a single key
+            long long key = ((long long)h << 32) | (unsigned int)i;
+            
+            // Check if the result is already in the cache
+            if(cache.find(key) != cache.end()){
+                return cache[key];
+            }
+            
+            // Base cases
+            if(i >= n){
+                cache[key] = -1;
+                return -1;
+            }
+            if(i == -1){
+                cache[key] = -1;
+                return -1;
+            }
+            
+            // Check if building i satisfies the meeting conditions
+            bool condition = false;
+            if(x != i && y != i && heights[i] > heights[x] && heights[i] > heights[y]){
+                condition = true;
+            }
+            if(x == i && y != i && heights[i] > heights[y]){
+                condition = true;
+            }
+            if(y == i && x != i && heights[i] > heights[x]){
+                condition = true;
+            }
+            if(condition){
+                cache[key] = i;
+                return i;
+            }
+            int nextI = NGE[i];
+            int ret = dfs(x, y, nextI);
+            cache[key] = ret;
+            return ret;
+        };
+        vector<int> res;
+        for(auto &qry : queries){
+            int ai = qry[0];
+            int bi = qry[1];
+            int i = min(ai, bi);
+            int j = max(ai, bi);
+            
+            if(i == j){
+                res.push_back(j);
+            }
+            else if(heights[i] < heights[j]){
+                res.push_back(j);
+            }
+            else{
+                int meeting_building = dfs(ai, bi, j);
+                res.push_back(meeting_building);
             }
         }
-        int numQueries = queries.size();
-        vector<int> results(numQueries);
-        for (int queryIndex = 0; queryIndex < numQueries; queryIndex++) {
-            int left = queries[queryIndex][0], right = queries[queryIndex][1];
-            if (left > right) swap(left, right);
-            if (left == right) {
-                results[queryIndex] = left;
-                continue;
-            }
-            if (heights[right] > heights[left]) {
-                results[queryIndex] = right;
-                continue;
-            }
-            int maxHeight = max(heights[right], heights[left]);
-            int low = right, high = n, mid;
-            while (low < high) {
-                mid = (low + high) >> 1;
-                if (queryMaximum(right, mid) > maxHeight) {
-                    high = mid;
-                } else {
-                    low = mid + 1;
-                }
-            }
-            results[queryIndex] = (low == n) ? -1 : low;
-        }
-        return results;
+        
+        return res;
     }
 };
