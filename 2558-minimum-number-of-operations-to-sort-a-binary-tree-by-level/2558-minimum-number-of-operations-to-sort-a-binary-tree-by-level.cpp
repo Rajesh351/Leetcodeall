@@ -12,27 +12,22 @@
  */
 class Solution {
 public:
-    int minSwaps(vector<int>& arr) {
+    int minSwaps(vector<int>& nums) {
         // Code here
-        
-        int count=0;
-        for(int i=0;i<arr.size()-1;i++)
-        {
-            int min=arr[i];
-            int p=i;
-            for(int j=i+1;j<arr.size();j++)
-            {
-                if(min>arr[j])
-                {
-                    p=j;
-                    min=arr[j];
-                }
+       unordered_map<int , int> mp;
+        vector<int> arr(nums.begin(), nums.end());
+        sort(arr.begin(), arr.end());
+        for(int i=0; i<arr.size(); i++){
+            mp[arr[i]]=i ;
+        }
+        int count=0 ;
+        for(int i=0; i<nums.size(); i++){
+            if(mp[nums[i]]!=i){
+                count++ ;
+                swap(nums[i], nums[mp[nums[i]]]);
+                i-- ; // i= -1
             }
-            if(p!=i)
-            {
-                swap(arr[p],arr[i]);
-                count++;
-            }
+            // i++ i.e. i=-1+1=0 ;
         }
         return count;
     }
