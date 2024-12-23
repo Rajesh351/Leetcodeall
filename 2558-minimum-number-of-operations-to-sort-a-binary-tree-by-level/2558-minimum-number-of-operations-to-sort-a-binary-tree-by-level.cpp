@@ -15,8 +15,6 @@ public:
     int minSwaps(vector<int>& arr) {
         // Code here
         
-        vector<int>v=arr;
-        sort(v.begin(),v.end());
         int count=0;
         for(int i=0;i<arr.size()-1;i++)
         {
