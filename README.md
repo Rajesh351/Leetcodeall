@@ -450,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Rajesh351/Leetcodeall/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Rajesh351/Leetcodeall/tree/master/2472-build-a-matrix-with-conditions) |
+| [2476-check-distances-between-same-letters](https://github.com/Rajesh351/Leetcodeall/tree/master/2476-check-distances-between-same-letters) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rajesh351/Leetcodeall/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Rajesh351/Leetcodeall/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rajesh351/Leetcodeall/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -597,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/Rajesh351/Leetcodeall/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Rajesh351/Leetcodeall/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rajesh351/Leetcodeall/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2476-check-distances-between-same-letters](https://github.com/Rajesh351/Leetcodeall/tree/master/2476-check-distances-between-same-letters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajesh351/Leetcodeall/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rajesh351/Leetcodeall/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/2586-longest-square-streak-in-an-array) |
@@ -787,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Rajesh351/Leetcodeall/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2476-check-distances-between-same-letters](https://github.com/Rajesh351/Leetcodeall/tree/master/2476-check-distances-between-same-letters) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Rajesh351/Leetcodeall/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/Rajesh351/Leetcodeall/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/Rajesh351/Leetcodeall/tree/master/2727-number-of-senior-citizens) |
