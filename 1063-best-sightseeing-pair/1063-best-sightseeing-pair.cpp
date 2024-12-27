@@ -3,14 +3,19 @@ public:
     int maxScoreSightseeingPair(vector<int>& arr) {
 
 
-        int maxval=arr[0];
-        int ans=0;
-        for(int j=1;j<arr.size();j++)
-        {
-            ans=max(ans,arr[j] +maxval-j);
-            maxval=max(maxval,arr[j]+j);
-        }
-        return ans;
+      vector<int>v;
+      int maxval=0;
+      for(int i=0;i<arr.size();i++)
+      {
+         maxval=max(arr[i]+i,maxval);
+         v.push_back(maxval);
+      }
+       int ans=0;
+       for(int i=1;i<arr.size();i++)
+       {
+          ans=max(ans,v[i-1]+arr[i]-i);
+       }
+       return ans;
     }
 
 };
