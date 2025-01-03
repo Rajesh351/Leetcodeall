@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rajesh351/Leetcodeall/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Rajesh351/Leetcodeall/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Rajesh351/Leetcodeall/tree/master/0744-network-delay-time) |
+| [0787-sliding-puzzle](https://github.com/Rajesh351/Leetcodeall/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajesh351/Leetcodeall/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0999-regions-cut-by-slashes](https://github.com/Rajesh351/Leetcodeall/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Rajesh351/Leetcodeall/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rajesh351/Leetcodeall/tree/master/0780-max-chunks-to-make-sorted) |
+| [0787-sliding-puzzle](https://github.com/Rajesh351/Leetcodeall/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/Rajesh351/Leetcodeall/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rajesh351/Leetcodeall/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Rajesh351/Leetcodeall/tree/master/0494-target-sum) |
 | [0553-optimal-division](https://github.com/Rajesh351/Leetcodeall/tree/master/0553-optimal-division) |
 | [0650-2-keys-keyboard](https://github.com/Rajesh351/Leetcodeall/tree/master/0650-2-keys-keyboard) |
+| [0787-sliding-puzzle](https://github.com/Rajesh351/Leetcodeall/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajesh351/Leetcodeall/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0930-all-possible-full-binary-trees](https://github.com/Rajesh351/Leetcodeall/tree/master/0930-all-possible-full-binary-trees) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rajesh351/Leetcodeall/tree/master/1025-minimum-cost-for-tickets) |
@@ -879,6 +882,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Rajesh351/Leetcodeall/tree/master/0498-diagonal-traverse) |
+| [0787-sliding-puzzle](https://github.com/Rajesh351/Leetcodeall/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Rajesh351/Leetcodeall/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Rajesh351/Leetcodeall/tree/master/0999-regions-cut-by-slashes) |
@@ -971,6 +975,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Rajesh351/Leetcodeall/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/Rajesh351/Leetcodeall/tree/master/0494-target-sum) |
+| [0787-sliding-puzzle](https://github.com/Rajesh351/Leetcodeall/tree/master/0787-sliding-puzzle) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Rajesh351/Leetcodeall/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajesh351/Leetcodeall/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Monotonic Stack
@@ -1018,6 +1023,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rajesh351/Leetcodeall/tree/master/0241-different-ways-to-add-parentheses) |
+| [0787-sliding-puzzle](https://github.com/Rajesh351/Leetcodeall/tree/master/0787-sliding-puzzle) |
 | [0930-all-possible-full-binary-trees](https://github.com/Rajesh351/Leetcodeall/tree/master/0930-all-possible-full-binary-trees) |
 ## Rolling Hash
 |  |
