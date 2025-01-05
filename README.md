@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/Rajesh351/Leetcodeall/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/Rajesh351/Leetcodeall/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/0870-magic-squares-in-grid) |
+| [0878-shifting-letters](https://github.com/Rajesh351/Leetcodeall/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rajesh351/Leetcodeall/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Rajesh351/Leetcodeall/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Rajesh351/Leetcodeall/tree/master/0921-spiral-matrix-iii) |
@@ -707,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rajesh351/Leetcodeall/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0731-my-calendar-ii) |
+| [0878-shifting-letters](https://github.com/Rajesh351/Leetcodeall/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rajesh351/Leetcodeall/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rajesh351/Leetcodeall/tree/master/1435-xor-queries-of-a-subarray) |
@@ -800,6 +802,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/Rajesh351/Leetcodeall/tree/master/0677-map-sum-pairs) |
 | [0726-number-of-atoms](https://github.com/Rajesh351/Leetcodeall/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/Rajesh351/Leetcodeall/tree/master/0812-rotate-string) |
+| [0878-shifting-letters](https://github.com/Rajesh351/Leetcodeall/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/Rajesh351/Leetcodeall/tree/master/0886-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rajesh351/Leetcodeall/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rajesh351/Leetcodeall/tree/master/0957-minimum-add-to-make-parentheses-valid) |
