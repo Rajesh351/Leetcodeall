@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rajesh351/Leetcodeall/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Rajesh351/Leetcodeall/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rajesh351/Leetcodeall/tree/master/0624-maximum-distance-in-arrays) |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajesh351/Leetcodeall/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Rajesh351/Leetcodeall/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Rajesh351/Leetcodeall/tree/master/0016-3sum-closest) |
 | [0040-combination-sum-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rajesh351/Leetcodeall/tree/master/0046-permutations) |
@@ -775,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rajesh351/Leetcodeall/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Rajesh351/Leetcodeall/tree/master/0016-3sum-closest) |
 | [0443-string-compression](https://github.com/Rajesh351/Leetcodeall/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Rajesh351/Leetcodeall/tree/master/0567-permutation-in-string) |
