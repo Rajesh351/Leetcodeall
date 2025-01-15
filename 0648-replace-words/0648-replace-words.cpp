@@ -1,26 +1,58 @@
 class Solution {
 public:
-    string replaceWords(vector<string>& dict, string sentence) {
-        set<string> s(begin(dict), end(dict));
-        istringstream iss(sentence);
-        vector<string> temp;
-        string word, res; 
-
-        while(iss >> word) temp.push_back(word);
-        for(string t : temp) {
-            int i = 0;
-            while(i++ <= t.length()) {
-                string curr = t.substr(0, i);
-                if(s.find(curr) != s.end()) {
-                    res += curr + " ";
-                    break;
-                }
-                
-                if(i == t.length()) res += curr + " ";
-            }
+    struct trieNode {
+        bool endfowrod;
+        trieNode* children[26];
+    };
+    trieNode* getNode() {
+        trieNode* newNode = new trieNode();
+        newNode->endfowrod = false;
+        for (int i = 0; i < 26; i++) {
+            newNode->children[i] = NULL;
         }
+        return newNode;
+    }
+    void insert(string word, trieNode *root) {
+        trieNode* crawler = root;
+        for (char ch : word) {
+            if (crawler->children[ch - 'a'] == NULL) {
+                crawler->children[ch - 'a'] = getNode();
+            }
+            crawler = crawler->children[ch - 'a'];
+        }
+        crawler->endfowrod = true;
+    }
+    string findword(string str, trieNode *root) {
+        trieNode* crawler = root;
+        string ans = "";
+        for (auto it : str) {
+            ans += it;
+            int idx = it - 'a';
+            
+            if (crawler->children[idx] == NULL)
+                return str;
+            crawler = crawler->children[idx];
+             if (crawler->endfowrod == true) return ans;
+        }
+        if (crawler->endfowrod == true) return ans;
+            return str;
+    }
+    string replaceWords(vector<string>& dict, string sentence) {
 
-        res.erase(res.size() - 1);
-        return res;
+        trieNode* root = getNode();
+        for (string str : dict) {
+            insert(str, root);
+        }
+        stringstream ss(sentence);
+
+        string word;
+        string ans="";
+        while (ss >> word) {
+            string str = findword(word, root);
+            ans += str;
+            ans += " ";
+        }
+        ans.pop_back();
+        return ans;
     }
 };
