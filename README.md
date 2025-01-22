@@ -447,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Rajesh351/Leetcodeall/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Rajesh351/Leetcodeall/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rajesh351/Leetcodeall/tree/master/1694-make-sum-divisible-by-p) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rajesh351/Leetcodeall/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Rajesh351/Leetcodeall/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Rajesh351/Leetcodeall/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -960,6 +961,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Rajesh351/Leetcodeall/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Rajesh351/Leetcodeall/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/Rajesh351/Leetcodeall/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Rajesh351/Leetcodeall/tree/master/1972-rotating-the-box) |
