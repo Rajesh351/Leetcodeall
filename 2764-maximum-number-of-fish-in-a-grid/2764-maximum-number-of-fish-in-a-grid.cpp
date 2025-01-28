@@ -1,30 +1,46 @@
 class Solution {
 public:
-    int n, m;
+    int rows, cols;
 
-    int solve(int i, int j, vector<vector<int>>& grid,
+    int solve(int row, int col, vector<vector<int>>& grid,
               vector<vector<bool>>& vis) {
-        if (i < 0 || j < 0 || i >= grid.size() || j >= grid[0].size() || grid[i][j]==0)
-            return 0; // Out of bounds
-        if (vis[i][j])
-            return 0; // Already visited
+        queue<pair<int,int>>pq;
+        pq.push({row,col});
+          int dx[] = {0, 0, 1, -1};
+    int dy[] = {1, -1, 0, 0};
+  int res=0;
+    while (!pq.empty()) {
+        auto it = pq.front();
+        pq.pop();
 
-        vis[i][j] = true;      // Mark as visited
-        int cost = grid[i][j]; // Cost at current cell
+        int i = it.first;
+        int j = it.second;
 
-        // Recursively explore all 4 directions
-        int totalCost = cost + solve(i, j + 1, grid, vis) + // Right
-                        solve(i, j - 1, grid, vis) +        // Left
-                        solve(i + 1, j, grid, vis) +        // Down
-                        solve(i - 1, j, grid, vis);         // Up
+        // Ensure valid range
+        if (i < 0 || j < 0 || i >= rows || j >= cols || vis[i][j] || grid[i][j] == 0)
+            continue;
 
-        return totalCost;
+        vis[i][j] = true;  // Mark as visited
+        res += grid[i][j];  // Add cost to result
+
+        // Push valid adjacent cells into queue
+        for (int d = 0; d < 4; d++) {
+            int newX = i + dx[d];
+            int newY = j + dy[d];
+
+            if (newX >= 0 && newY >= 0 && newX < rows && newY < cols && !vis[newX][newY] && grid[newX][newY] != 0) {
+                pq.push({newX, newY});
+            }
+        }
+    }
+
+         return res;
     }
     int findMaxFish(vector<vector<int>>& grid) {
-        n = grid.size();
-        m = grid[0].size();
+        rows = grid.size();
+        cols= grid[0].size();
 
-        vector<vector<bool>> vis(n, vector<bool>(m, false));
+        vector<vector<bool>> vis(rows, vector<bool>(cols, false));
         int res = 0;
         for (int i = 0; i < grid.size(); i++) {
             for (int j = 0; j < grid[0].size(); j++) {
