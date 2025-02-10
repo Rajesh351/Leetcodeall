@@ -2,23 +2,16 @@ class Solution {
 public:
     string clearDigits(string s) {
 
-      stack<char>st;
+     string str;
       for(char c:s)
       {
          int a=c-'0';
          if(a>=0 && a<10)
          {
-            if(!st.empty()) st.pop();
+            if(str.size()!=0) str.erase(str.size()-1,1);
          }
-         else st.push(c);
+         else str+=c;
       }
-      string str;
-      while(!st.empty())
-      {
-        str+=st.top();
-        st.pop();
-      }
-      reverse(str.begin(),str.end());
       return str;
     }
 };
