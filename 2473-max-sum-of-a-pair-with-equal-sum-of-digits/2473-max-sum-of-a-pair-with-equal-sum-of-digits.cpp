@@ -1,33 +1,34 @@
 class Solution {
 public:
-    int maximumSum(vector<int>& nums) {
-
-       vector<int>digitsum;
-       for(int i=0;i<nums.size();i++)
-       {
-            int curr=nums[i];
+    int a(int curr)
+    {
             int sum=0;
             while(curr>0)
             {
               sum+=curr%10;
               curr=curr/10;
             }
-            digitsum.push_back(sum);
-       }
+            return sum;
+    }
+    int maximumSum(vector<int>& nums) {
+
+      
        int ans=INT_MIN;
+       int digitsum=a(nums[0]);
        unordered_map<int,int>mp;
-       mp[digitsum[0]]=nums[0];
+       mp[digitsum]=nums[0];
        for(int i=1;i<nums.size();i++)
        {
-          if(mp.find(digitsum[i])!=mp.end())
+            digitsum=a(nums[i]);
+          if(mp.find(digitsum)!=mp.end())
           {
-            int curr=mp[digitsum[i]];
+            int curr=mp[digitsum];
             ans=max(ans,curr+nums[i]);
-            if(curr<nums[i]) mp[digitsum[i]]=nums[i];
+            if(curr<nums[i]) mp[digitsum]=nums[i];
 
           }
           else
-          mp[digitsum[i]]=nums[i];
+          mp[digitsum]=nums[i];
        } 
        return ans==INT_MIN?-1:ans;
     }
