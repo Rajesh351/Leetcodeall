@@ -17,7 +17,7 @@ while (pq.top() < k && pq.size() > 1) {  // Fixed condition
     pq.push(min(x, y) * 2 + max(x, y));
 }
 
-return (pq.top() >= k) ? ans : -1;  // Ensure k condition is met
+    return ans;
 
     }
 };
