@@ -469,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajesh351/Leetcodeall/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rajesh351/Leetcodeall/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajesh351/Leetcodeall/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Rajesh351/Leetcodeall/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -629,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Rajesh351/Leetcodeall/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Rajesh351/Leetcodeall/tree/master/0859-design-circular-deque) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Rajesh351/Leetcodeall/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1955-seat-reservation-manager](https://github.com/Rajesh351/Leetcodeall/tree/master/1955-seat-reservation-manager) |
 ## Linked List
@@ -814,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rajesh351/Leetcodeall/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rajesh351/Leetcodeall/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rajesh351/Leetcodeall/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rajesh351/Leetcodeall/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rajesh351/Leetcodeall/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -841,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/Rajesh351/Leetcodeall/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/1240-stone-game-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rajesh351/Leetcodeall/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Rajesh351/Leetcodeall/tree/master/2155-find-missing-observations) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Rajesh351/Leetcodeall/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -1227,4 +1231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Rajesh351/Leetcodeall/tree/master/2201-valid-arrangement-of-pairs) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
