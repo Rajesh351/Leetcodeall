@@ -509,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rajesh351/Leetcodeall/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Rajesh351/Leetcodeall/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/Rajesh351/Leetcodeall/tree/master/2089-maximum-matrix-sum) |
+| [2107-find-unique-binary-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rajesh351/Leetcodeall/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Rajesh351/Leetcodeall/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2145-grid-game](https://github.com/Rajesh351/Leetcodeall/tree/master/2145-grid-game) |
@@ -717,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rajesh351/Leetcodeall/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rajesh351/Leetcodeall/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rajesh351/Leetcodeall/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2107-find-unique-binary-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Rajesh351/Leetcodeall/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -952,6 +954,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rajesh351/Leetcodeall/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rajesh351/Leetcodeall/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rajesh351/Leetcodeall/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2107-find-unique-binary-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Rajesh351/Leetcodeall/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -1143,6 +1146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rajesh351/Leetcodeall/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Rajesh351/Leetcodeall/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Rajesh351/Leetcodeall/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/Rajesh351/Leetcodeall/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajesh351/Leetcodeall/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Rajesh351/Leetcodeall/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Monotonic Stack
