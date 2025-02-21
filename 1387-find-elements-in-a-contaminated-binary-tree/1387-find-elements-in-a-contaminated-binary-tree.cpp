@@ -12,9 +12,11 @@
 class FindElements {
 public:
     TreeNode *temp=NULL;
+    unordered_map<int,int>mp;
     FindElements(TreeNode* root) {
         queue<TreeNode*>pq;
         root->val=0;
+        mp[0]=1;
         pq.push(root);
         temp=root;
         while(!pq.empty())
@@ -27,11 +29,13 @@ public:
               pq.pop();
               if(ans->left)
               {
+                mp[2 * x + 1]++;
                  ans->left->val=2 * x + 1;
                  pq.push(ans->left);
               }
               if(ans->right)
               {
+                 mp[2 * x + 2]++;
                 ans->right->val=2 * x + 2;
                 pq.push(ans->right);
               }
@@ -40,28 +44,7 @@ public:
     }
     
     bool find(int target) {
-         queue<TreeNode*>pq;
-        if(temp==NULL) return false;
-        pq.push(temp);
-        while(!pq.empty())
-        {
-           int n=pq.size();
-           for(int i=0;i<n;i++)
-           {
-              TreeNode *ans=pq.front();
-              int x=ans->val;
-              if(x==target)  return true;
-              pq.pop();
-              if(ans->left)
-              {
-                 pq.push(ans->left);
-              }
-              if(ans->right)
-              {
-                pq.push(ans->right);
-              }
-           }
-        }
+        if(mp.find(target)!=mp.end()) return true;
         return false;
         
     }
