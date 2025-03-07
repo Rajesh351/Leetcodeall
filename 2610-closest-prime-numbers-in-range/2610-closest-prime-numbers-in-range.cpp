@@ -3,18 +3,19 @@ public:
     vector<int> closestPrimes(int left, int right) {
 
      if(left==right) return {-1,-1};
-        vector<int> v;
+       vector<int> v;
         for (int i = left; i <= right; i++) {
-            if (i < 2)
-                continue; 
-            bool check = true;
-            for (int j = 2; j * j <= i;j++) { 
+            bool check=true;
+            if (i < 2) continue;
+            for (int j = 2; j*j <=i; j++)
+
+            {
                 if (i % j == 0) {
                     check = false;
                     break;
                 }
             }
-            if (check) {
+            if (check == true) {
                 v.push_back(i);
             }
         }
