@@ -592,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rajesh351/Leetcodeall/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Rajesh351/Leetcodeall/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3463-alternating-groups-i](https://github.com/Rajesh351/Leetcodeall/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajesh351/Leetcodeall/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rajesh351/Leetcodeall/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Rajesh351/Leetcodeall/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -1178,6 +1179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Rajesh351/Leetcodeall/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/Rajesh351/Leetcodeall/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Rajesh351/Leetcodeall/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |
