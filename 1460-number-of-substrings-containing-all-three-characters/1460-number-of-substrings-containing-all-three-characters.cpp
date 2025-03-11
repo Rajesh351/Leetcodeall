@@ -1,24 +1,24 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-         int n = s.length();
-    unordered_map<char, int> charCount;
-    int left = 0, count = 0;
 
-    for (int right = 0; right < n; right++) {
-        charCount[s[right]]++;
+        unordered_map<int, int> mp;
+        int i = 0, j = 0, count = 0;
 
-        // Check if we have at least one 'a', 'b', and 'c'
-        while (charCount['a'] > 0 && charCount['b'] > 0 && charCount['c'] > 0) {
-            // All substrings from left to end of string are valid
-            count += n - right;
+        while (j < s.size()) {
+            mp[s[j] - '0']++; // Character count बढ़ाएं
 
-            // Move left to try to find a new window
-            charCount[s[left]]--;
-            left++;
+            while (mp.size() > 2) {    // केवल 2 distinct characters तक सीमित रखें
+                count += s.size() - j; // सभी valid substrings add करें
+                if (--mp[s[i] - '0'] == 0) {
+                    mp.erase(s[i] - '0');
+                }
+                i++;
+            }
+
+            j++;
         }
-    }
 
-    return count;
+        return count;
     }
 };
