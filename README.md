@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Rajesh351/Leetcodeall/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Rajesh351/Leetcodeall/tree/master/0056-merge-intervals) |
+| [0139-word-break](https://github.com/Rajesh351/Leetcodeall/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajesh351/Leetcodeall/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0219-contains-duplicate-ii) |
@@ -627,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rajesh351/Leetcodeall/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/Rajesh351/Leetcodeall/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rajesh351/Leetcodeall/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0264-ugly-number-ii) |
 | [0494-target-sum](https://github.com/Rajesh351/Leetcodeall/tree/master/0494-target-sum) |
@@ -733,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/Rajesh351/Leetcodeall/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0264-ugly-number-ii) |
@@ -984,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Rajesh351/Leetcodeall/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Rajesh351/Leetcodeall/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/Rajesh351/Leetcodeall/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Rajesh351/Leetcodeall/tree/master/0214-shortest-palindrome) |
@@ -1148,6 +1152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rajesh351/Leetcodeall/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Rajesh351/Leetcodeall/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Rajesh351/Leetcodeall/tree/master/0440-k-th-smallest-in-lexicographical-order) |
@@ -1295,6 +1300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Rajesh351/Leetcodeall/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rajesh351/Leetcodeall/tree/master/0241-different-ways-to-add-parentheses) |
 | [0787-sliding-puzzle](https://github.com/Rajesh351/Leetcodeall/tree/master/0787-sliding-puzzle) |
 | [0930-all-possible-full-binary-trees](https://github.com/Rajesh351/Leetcodeall/tree/master/0930-all-possible-full-binary-trees) |
