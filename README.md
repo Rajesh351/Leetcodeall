@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Rajesh351/Leetcodeall/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Rajesh351/Leetcodeall/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0179-largest-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Rajesh351/Leetcodeall/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Rajesh351/Leetcodeall/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajesh351/Leetcodeall/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Rajesh351/Leetcodeall/tree/master/0228-summary-ranges) |
 | [0407-trapping-rain-water-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0407-trapping-rain-water-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/Rajesh351/Leetcodeall/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Rajesh351/Leetcodeall/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Rajesh351/Leetcodeall/tree/master/0539-minimum-time-difference) |
@@ -906,6 +908,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Rajesh351/Leetcodeall/tree/master/0273-integer-to-english-words) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Rajesh351/Leetcodeall/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Rajesh351/Leetcodeall/tree/master/0553-optimal-division) |
 | [0564-find-the-closest-palindrome](https://github.com/Rajesh351/Leetcodeall/tree/master/0564-find-the-closest-palindrome) |
