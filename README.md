@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/Rajesh351/Leetcodeall/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Rajesh351/Leetcodeall/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Rajesh351/Leetcodeall/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0179-largest-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Rajesh351/Leetcodeall/tree/master/0539-minimum-time-difference) |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Rajesh351/Leetcodeall/tree/master/0056-merge-intervals) |
 | [0139-word-break](https://github.com/Rajesh351/Leetcodeall/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajesh351/Leetcodeall/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Rajesh351/Leetcodeall/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Rajesh351/Leetcodeall/tree/master/0228-summary-ranges) |
@@ -738,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/Rajesh351/Leetcodeall/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Rajesh351/Leetcodeall/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0264-ugly-number-ii) |
@@ -1109,6 +1112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajesh351/Leetcodeall/tree/master/0004-median-of-two-sorted-arrays) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Rajesh351/Leetcodeall/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/0948-sort-an-array) |
 ## Binary Search Tree
 |  |
@@ -1185,6 +1189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rajesh351/Leetcodeall/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Rajesh351/Leetcodeall/tree/master/0561-array-partition) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rajesh351/Leetcodeall/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/0948-sort-an-array) |
