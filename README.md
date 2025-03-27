@@ -573,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rajesh351/Leetcodeall/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2476-check-distances-between-same-letters](https://github.com/Rajesh351/Leetcodeall/tree/master/2476-check-distances-between-same-letters) |
 | [2478-longest-nice-subarray](https://github.com/Rajesh351/Leetcodeall/tree/master/2478-longest-nice-subarray) |
+| [2486-most-frequent-even-element](https://github.com/Rajesh351/Leetcodeall/tree/master/2486-most-frequent-even-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rajesh351/Leetcodeall/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Rajesh351/Leetcodeall/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rajesh351/Leetcodeall/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -794,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/Rajesh351/Leetcodeall/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rajesh351/Leetcodeall/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2476-check-distances-between-same-letters](https://github.com/Rajesh351/Leetcodeall/tree/master/2476-check-distances-between-same-letters) |
+| [2486-most-frequent-even-element](https://github.com/Rajesh351/Leetcodeall/tree/master/2486-most-frequent-even-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajesh351/Leetcodeall/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Rajesh351/Leetcodeall/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rajesh351/Leetcodeall/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1209,6 +1211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/Rajesh351/Leetcodeall/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Rajesh351/Leetcodeall/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rajesh351/Leetcodeall/tree/master/2448-count-number-of-bad-pairs) |
+| [2486-most-frequent-even-element](https://github.com/Rajesh351/Leetcodeall/tree/master/2486-most-frequent-even-element) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Rajesh351/Leetcodeall/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rajesh351/Leetcodeall/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
