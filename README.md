@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/Rajesh351/Leetcodeall/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajesh351/Leetcodeall/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Rajesh351/Leetcodeall/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/Rajesh351/Leetcodeall/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rajesh351/Leetcodeall/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rajesh351/Leetcodeall/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Rajesh351/Leetcodeall/tree/master/0979-di-string-match) |
@@ -764,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajesh351/Leetcodeall/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0677-map-sum-pairs](https://github.com/Rajesh351/Leetcodeall/tree/master/0677-map-sum-pairs) |
 | [0726-number-of-atoms](https://github.com/Rajesh351/Leetcodeall/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/Rajesh351/Leetcodeall/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rajesh351/Leetcodeall/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Rajesh351/Leetcodeall/tree/master/0906-walking-robot-simulation) |
@@ -984,6 +986,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Rajesh351/Leetcodeall/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajesh351/Leetcodeall/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Rajesh351/Leetcodeall/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/Rajesh351/Leetcodeall/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/Rajesh351/Leetcodeall/tree/master/0979-di-string-match) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rajesh351/Leetcodeall/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Rajesh351/Leetcodeall/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1026,6 +1029,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/Rajesh351/Leetcodeall/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/Rajesh351/Leetcodeall/tree/master/0677-map-sum-pairs) |
 | [0726-number-of-atoms](https://github.com/Rajesh351/Leetcodeall/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/Rajesh351/Leetcodeall/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Rajesh351/Leetcodeall/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/Rajesh351/Leetcodeall/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/Rajesh351/Leetcodeall/tree/master/0886-score-of-parentheses) |
