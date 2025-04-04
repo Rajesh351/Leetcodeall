@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rajesh351/Leetcodeall/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Rajesh351/Leetcodeall/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rajesh351/Leetcodeall/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Rajesh351/Leetcodeall/tree/master/0547-number-of-provinces) |
@@ -834,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rajesh351/Leetcodeall/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rajesh351/Leetcodeall/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajesh351/Leetcodeall/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Rajesh351/Leetcodeall/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -860,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rajesh351/Leetcodeall/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rajesh351/Leetcodeall/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajesh351/Leetcodeall/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-all-possible-full-binary-trees](https://github.com/Rajesh351/Leetcodeall/tree/master/0930-all-possible-full-binary-trees) |
@@ -1104,6 +1107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rajesh351/Leetcodeall/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajesh351/Leetcodeall/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Rajesh351/Leetcodeall/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/Rajesh351/Leetcodeall/tree/master/0726-number-of-atoms) |
