@@ -1,27 +1,25 @@
 class Solution {
 public:
+    bool solve(int idx, int sum, vector<int>& arr, vector<vector<int>>& dp) {
+        if(sum == 0) return true;
+        if(idx >= arr.size() || sum < 0) return false;
+
+        if(dp[idx][sum] != -1) return dp[idx][sum];
+
+        bool take = solve(idx + 1, sum - arr[idx], arr, dp);
+        bool notake = solve(idx + 1, sum, arr, dp);
+
+        return dp[idx][sum] = take || notake;
+    }
+
     bool canPartition(vector<int>& arr) {
         int total = accumulate(arr.begin(), arr.end(), 0);
-        // If total is odd, can't split into two equal subsets
-        if (total % 2 != 0) return false;
+        if(total % 2 != 0) return false;
 
         int sum = total / 2;
         int n = arr.size();
-
-        vector<bool> prev(sum + 1, false), curr(sum + 1, false);
-        prev[0] = true;  // base case: sum 0 is always possible
-
-        for (int i = 1; i <= n; i++) {
-            curr[0] = true;  // sum = 0 is always achievable
-            for (int j = 1; j <= sum; j++) {
-                if (j < arr[i - 1])
-                    curr[j] = prev[j];
-                else
-                    curr[j] = prev[j] || prev[j - arr[i - 1]];
-            }
-            prev = curr;
-        }
-
-        return prev[sum];  // just return true or false
+        
+        vector<vector<int>> dp(n, vector<int>(sum + 1, -1));
+        return solve(0, sum, arr, dp);
     }
 };
