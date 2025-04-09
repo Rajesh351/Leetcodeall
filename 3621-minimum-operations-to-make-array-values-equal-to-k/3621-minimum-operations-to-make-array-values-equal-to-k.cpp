@@ -2,12 +2,7 @@ class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
         
-        if(nums.size()==1)
-        {
-            if(nums[0]==k) return 0;
-            if(nums[0]<k)  return -1;
-            return 1;
-        }
+      
         unordered_map<int,int>mp;
         for(int a:nums) 
         {
