@@ -1043,6 +1043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Rajesh351/Leetcodeall/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Rajesh351/Leetcodeall/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/Rajesh351/Leetcodeall/tree/master/0038-count-and-say) |
 | [0139-word-break](https://github.com/Rajesh351/Leetcodeall/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/0208-implement-trie-prefix-tree) |
