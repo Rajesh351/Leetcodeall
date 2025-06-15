@@ -461,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Rajesh351/Leetcodeall/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Rajesh351/Leetcodeall/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Rajesh351/Leetcodeall/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Rajesh351/Leetcodeall/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajesh351/Leetcodeall/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Rajesh351/Leetcodeall/tree/master/0169-majority-element) |
@@ -788,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajesh351/Leetcodeall/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Rajesh351/Leetcodeall/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Rajesh351/Leetcodeall/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Rajesh351/Leetcodeall/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajesh351/Leetcodeall/tree/master/0208-implement-trie-prefix-tree) |
@@ -1204,6 +1206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rajesh351/Leetcodeall/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Rajesh351/Leetcodeall/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Rajesh351/Leetcodeall/tree/master/0542-01-matrix) |
