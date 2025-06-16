@@ -462,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Rajesh351/Leetcodeall/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Rajesh351/Leetcodeall/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Rajesh351/Leetcodeall/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Rajesh351/Leetcodeall/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajesh351/Leetcodeall/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Rajesh351/Leetcodeall/tree/master/0169-majority-element) |
@@ -673,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rajesh351/Leetcodeall/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/Rajesh351/Leetcodeall/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Rajesh351/Leetcodeall/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rajesh351/Leetcodeall/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0264-ugly-number-ii) |
