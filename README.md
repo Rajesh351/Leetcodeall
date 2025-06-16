@@ -569,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rajesh351/Leetcodeall/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rajesh351/Leetcodeall/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Rajesh351/Leetcodeall/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Rajesh351/Leetcodeall/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Rajesh351/Leetcodeall/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/Rajesh351/Leetcodeall/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rajesh351/Leetcodeall/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
