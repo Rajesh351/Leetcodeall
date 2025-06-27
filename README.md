@@ -474,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Rajesh351/Leetcodeall/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rajesh351/Leetcodeall/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/Rajesh351/Leetcodeall/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Rajesh351/Leetcodeall/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Rajesh351/Leetcodeall/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Rajesh351/Leetcodeall/tree/master/0539-minimum-time-difference) |
